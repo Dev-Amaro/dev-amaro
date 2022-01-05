@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://dev-amaro.github.io/portfolio2.0/">
+  <a href="beacons.ai/dev.amaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-amaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
